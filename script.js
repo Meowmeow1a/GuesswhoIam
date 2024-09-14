@@ -2,7 +2,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     event.preventDefault();
     
     const correctUsername = 'Chicken1150'; // กำหนด Username ที่ต้องการ
-    const correctPassword = 'Nongoaknoob555'; // กำหนด Password ที่ต้องการ
+    const correctPassword = 'Skibididopdop555'; // กำหนด Password ที่ต้องการ
     const userUsername = document.getElementById('username').value;
     const userPassword = document.getElementById('password').value;
     const resultElement = document.getElementById('result');
